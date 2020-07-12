@@ -3,11 +3,9 @@
     <a href="https://www.linkedin.com/in/edipoyurirs/">
         <img align="center" alt="Édipo Yuri - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
     </a>
-
     <a href="https://twitter.com/EdipoYuri">
         <img align="center" alt="Édipo Yuri - Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
     </a>
-
     <a href="mailto:edipoyurirs@gmail.com">
         <img align="center" alt="Édipo Yuri - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
     </a>
