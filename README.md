@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi everyone 👋
+<p align="center">
+<a href="https://www.linkedin.com/in/edipoyurirs/">
+    <img align="center" alt="Édipo Yuri - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
 
-<!--
-**EdipoYuri/EdipoYuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/EdipoYuri">
+    <img align="center" alt="Édipo Yuri - Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="mailto:edipoyurirs@gmail.com">
+    <img align="left" alt="Édipo Yuri - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is **Édipo**, i'm currently a QA intern and studying front-end development with React.js and Typescript, aiming to get a job in the area 😁
+
+#### Take a look at some of my projects 😊
+
+- 📃 [A simple to-do list](https://github.com/EdipoYuri/todo-react)
+- 🧧 [A Pokédex](https://github.com/EdipoYuri/pokedex-react)
+- More to come, soon... 🤭
