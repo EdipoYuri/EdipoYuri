@@ -1,4 +1,7 @@
 ## Hi everyone 👋
+My name is **Édipo**, i'm currently a QA intern and studying front-end development with React.js and Typescript, aiming to get a job in the area 😁
+
+#### My social networks
 <a href="https://www.linkedin.com/in/edipoyurirs/">
     <img align="center" alt="Édipo Yuri - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
