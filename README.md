@@ -17,4 +17,5 @@ My name is **Édipo**, i'm currently a QA intern and studying front-end developm
 
 - 📃 [A simple to-do list](https://github.com/EdipoYuri/todo-react)
 - 🧧 [A Pokédex](https://github.com/EdipoYuri/pokedex-react)
+- 📕 [A recipe app](https://github.com/EdipoYuri/plate-pallete)
 - More to come, soon... 🤭
