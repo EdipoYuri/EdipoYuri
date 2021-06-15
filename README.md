@@ -1,8 +1,8 @@
 ## Hi 👋
-My name is **Édipo**, i'm currently a fullstack developer at [2SOW](https://www.linkedin.com/company/2sow-inova%C3%A7%C3%A3o-e-tecnologia/). Now i'm studying front-end development, aiming to get a job in the area in the future 😁
+My name is **Édipo**, i'm currently a front-end developer at [2SOW](https://www.linkedin.com/company/2sow-inova%C3%A7%C3%A3o-e-tecnologia/) 😁
 <br>
 ## Olá 👋
-Meu nome é **Édipo**, atualmente sou desenvolvedor fullstack na [2SOW](https://www.linkedin.com/company/2sow-inova%C3%A7%C3%A3o-e-tecnologia/). No momento tenho me dedicado no desevolvimento front-end para quem sabe trabalhar na área no futuro 😁
+Meu nome é **Édipo**, atualmente sou desenvolvedor front-end na [2SOW](https://www.linkedin.com/company/2sow-inova%C3%A7%C3%A3o-e-tecnologia/) 😁
 <br>
 #### My social networks / Minhas redes sociais
 <a href="https://www.linkedin.com/in/edipoyurirs/">
