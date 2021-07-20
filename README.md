@@ -1,8 +1,8 @@
 ## Hi 👋
-My name is **Édipo**, i'm currently a front-end developer at [2SOW](https://www.linkedin.com/company/2sow-inova%C3%A7%C3%A3o-e-tecnologia/) 😁
+My name is **Édipo**, i'm currently a front-end developer at [Troupe Tecnologia](https://www.linkedin.com/company/troupe-tecnologia/mycompany/) 😁
 <br>
 ## Olá 👋
-Meu nome é **Édipo**, atualmente sou desenvolvedor front-end na [2SOW](https://www.linkedin.com/company/2sow-inova%C3%A7%C3%A3o-e-tecnologia/) 😁
+Meu nome é **Édipo**, atualmente sou desenvolvedor front-end na [Troupe Tecnologia](https://www.linkedin.com/company/troupe-tecnologia/mycompany/) 😁
 <br>
 #### My social networks / Minhas redes sociais
 <a href="https://www.linkedin.com/in/edipoyurirs/">
